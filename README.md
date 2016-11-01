@@ -59,9 +59,5 @@ This project is released under the MIT license. See [LICENSE](LICENSE) for detai
 [slack-image]: http://s13.postimg.org/ybwy92ktf/Slack.png
 [slack-badge]: https://zewo-slackin.herokuapp.com/badge.svg
 [slack-url]: http://slack.zewo.io
-[travis-badge]: https://travis-ci.org/Zewo/GraphQLResponder.svg?branch=master
-[travis-url]: https://travis-ci.org/Zewo/GraphQLResponder
-[codecov-badge]: https://codecov.io/gh/Zewo/GraphQLResponder/branch/master/graph/badge.svg
-[codecov-url]: https://codecov.io/gh/Zewo/GraphQLResponder
-[codebeat-badge]: https://codebeat.co/badges/97fc8ffa-eff3-495f-b61d-b3c5d29f2280
-[codebeat-url]: https://codebeat.co/projects/github-com-zewo-graphqlresponder
+[travis-badge]: https://travis-ci.org/Zewo/GraphQLExamples.svg?branch=master
+[travis-url]: https://travis-ci.org/Zewo/GraphQLExamples
